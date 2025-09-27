@@ -1,0 +1,46 @@
+[
+  {
+    "nombre": "Ana",
+    "edad": 20,
+    "calificaciones": [
+      {
+        "materia": "Matemáticas",
+        "nota": 85
+      },
+      {
+        "materia": "Historia",
+        "nota": 90
+      },
+      {
+        "materia": "Física",
+        "nota": 78
+      },
+      {
+        "materia": "Programación",
+        "nota": 95
+      }
+    ]
+  },
+  {
+    "nombre": "brian",
+    "edad": 34,
+    "calificaciones": [
+      {
+        "materia": "logica ",
+        "nota": 100.0
+      },
+      {
+        "materia": "enrutamiento",
+        "nota": 100.0
+      },
+      {
+        "materia": "programacion",
+        "nota": 100.0
+      },
+      {
+        "materia": "gestion de proyectos",
+        "nota": 100.0
+      }
+    ]
+  }
+]
